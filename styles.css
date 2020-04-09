@@ -1,0 +1,128 @@
+#proPic{
+border-radius: 50%;
+padding: 50px;
+}
+.skill-image{
+    border-radius: 50%;
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+  }
+  .skill-image01{
+        border-radius: 50%;
+        width: 25%;
+        float: right;
+        margin-left:  30px;
+}
+.skill-row{
+  border-radius: 50%;
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+hr{
+  border: dotted grey 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+  }
+body{
+margin: 0px;
+text-align: center;
+}
+h1{
+color: #00bcd4;
+font-size: 5.628rem;
+margin: 0px;
+font-family: 'Dancing Script', cursive;
+padding-bottom: 15px;
+}
+h2{
+  color: #00bcd4;
+font-size: 2rem;
+font-family: monospace;
+padding: 10px;
+}
+h3{
+  color: #00bcd4;
+font-size: 2rem;
+font-family: monospace;
+}
+p{
+margin: 0px;
+font-family: arial;
+}
+.oneP{
+  width: 30%;
+  text-align: center;
+  margin: auto;
+  line-height: 2;
+}
+.twoP{
+  width: 30%;
+  text-align: center;
+  margin: auto;
+  line-height: 2;
+  padding-bottom: 20px;
+}
+.top-container{
+background-color: #cff1ef;
+position: relative;
+padding-top: 100px;
+}
+.middle-container{
+  background-color: #e8f9e9;
+  padding-bottom: 25px;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+.top-cloud{
+position: absolute;
+right: 400px;
+top: 50px;
+}
+.bottom-cloud{
+position: absolute;
+left: 400px;
+bottom: 300px;
+}
+
+a{
+  color: #11999E;
+  font-family: sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+}
+.copyrightmsg{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0px;
+}
+.clickme {
+    background-color: #11CDD4;
+    padding: 12px 24px;
+    text-decoration:none;
+    font-weight:bold;
+    border-radius:5px;
+    color: white;
+    cursor:pointer;
+    font-family: monospace;
+    font-size: 16px
+    }
+.clickme:hover {
+    background-color: #0059A0;
+    padding: 8px 20px;
+    text-decoration:none;
+    font-weight:bold;
+    border-radius:5px;
+    color: white;
+    cursor:pointer;
+    font-family: monospace;
+    font-size: 16px
+}
